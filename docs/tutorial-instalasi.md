@@ -1,6 +1,6 @@
-# 📦 Tutorial Instalasi — Kasir Kedai
+# 📦 Tutorial Instalasi — qasir
 
-Panduan ini menjelaskan cara memasang dan menjalankan **Kasir Kedai** di berbagai perangkat. Tidak diperlukan keahlian teknis khusus.
+Panduan ini menjelaskan cara memasang dan menjalankan **qasir** di berbagai perangkat. Tidak diperlukan keahlian teknis khusus.
 
 ---
 
@@ -95,13 +95,14 @@ Agar lebih mudah dibuka tanpa harus mencari file setiap hari:
 ### Metode 1 — Via File Manager (Tanpa Internet)
 
 Cocok jika sudah punya file aplikasi di perangkat lain.
+Penggunaan di HP/Tablet cukup mengunduh 1 file `kasir-mobile.html` saja
 
 1. **Transfer file** ke HP menggunakan kabel USB, Bluetooth, atau WhatsApp
-   - Pindahkan semua 4 file ke satu folder, misalnya: `Unduhan/KasirKedai/`
+   - Pindahkan file kasir-mobile.html ke satu folder, misalnya: `Unduhan/qasir/`
 
 2. Buka aplikasi **File Manager** (Pengelola File) di HP
 
-3. Cari folder `KasirKedai` → ketuk file **`kasir.html`**
+3. Cari folder `qasir` → ketuk file **`kasir-mobile.html`**
 
 4. Pilih **"Buka dengan Chrome"** (atau browser lain yang tersedia)
 
@@ -113,7 +114,7 @@ Cocok jika sudah punya file aplikasi di perangkat lain.
 2. Buka halaman GitHub repository ini
 3. Ketuk **`Code`** → **`Download ZIP`**
 4. Setelah unduhan selesai, ketuk notifikasi unduhan → pilih **Ekstrak**
-5. Buka folder hasil ekstrak → ketuk `kasir.html` → pilih **Buka dengan Chrome**
+5. Buka folder hasil ekstrak → ketuk `kasir-mobile.html` → pilih **Buka dengan Chrome**
 6. Masukkan PIN: **`1234`**
 
 ### Cara Pasang ke Layar Utama (Home Screen)
@@ -134,7 +135,7 @@ Agar bisa dibuka seperti aplikasi tanpa buka file manager:
 
 2. Pindahkan 4 file aplikasi ke folder di iCloud Drive atau "Di iPhone Ini"
 
-3. Ketuk file `kasir.html`
+3. Ketuk file `kasir-mobile.html`
 
 4. Pilih **"Buka di Safari"**
 
@@ -195,4 +196,4 @@ J: Tidak. Data tersimpan di `localStorage` browser, terpisah dari file aplikasi.
 
 ---
 
-*Panduan ini bagian dari dokumentasi [Kasir Kedai](../README.md) — dibuat oleh [@awekh](https://qata.my.id/awekh)*
+*Panduan ini bagian dari dokumentasi [qasir](../README.md) — dibuat oleh [@awekh](https://qata.my.id/awekh)*
